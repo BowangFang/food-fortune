@@ -8,4 +8,4 @@
 - 趣味推荐理由
 - 音效 + 动画体验
 
-👉 [点击开始抽签](https://BowangFang.github.io/food-fortune)
+👉 [点击开始抽签](https://FarrByron.github.io/food-fortune)
